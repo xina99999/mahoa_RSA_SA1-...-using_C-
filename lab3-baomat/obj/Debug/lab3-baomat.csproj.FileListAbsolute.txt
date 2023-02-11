@@ -1,0 +1,10 @@
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3-baomat.csproj.AssemblyReference.cache
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3_baomat.Form1.resources
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3_baomat.Properties.Resources.resources
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3-baomat.csproj.GenerateResource.cache
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3-baomat.csproj.CoreCompileInputs.cache
+D:\pascal\lab3-baomat\lab3-baomat\bin\Debug\lab3-baomat.exe.config
+D:\pascal\lab3-baomat\lab3-baomat\bin\Debug\lab3-baomat.exe
+D:\pascal\lab3-baomat\lab3-baomat\bin\Debug\lab3-baomat.pdb
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3-baomat.exe
+D:\pascal\lab3-baomat\lab3-baomat\obj\Debug\lab3-baomat.pdb
